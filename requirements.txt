@@ -1,0 +1,6 @@
+requests>=2.31
+anthropic>=0.40
+streamlit>=1.38
+streamlit-folium>=0.23
+folium>=0.17
+pandas>=2.2
